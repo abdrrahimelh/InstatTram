@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960591047619",
+    "project_id": "traminpt",
+    "storage_bucket": "traminpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960591047619:android:15ce9168487df8dd582b76",
+        "android_client_info": {
+          "package_name": "com.example.instatram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960591047619-pejbsgd4cvqql3diumoivvcjt4uhrqo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27ATJmxYwQkyIMacnGWffht7WvID75tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960591047619-pejbsgd4cvqql3diumoivvcjt4uhrqo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

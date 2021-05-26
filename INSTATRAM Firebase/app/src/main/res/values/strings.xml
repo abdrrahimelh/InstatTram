@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">InstaTram</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Map</string>
+    <string name="language">Language</string>
+    <string name="Settings">Settings</string>
+    <string name="Themes">Themes</string>
+    <string name="title_activity_map2">Map</string>
+    <string name="mode1">Choose Theme</string>
+    <string name="mode2">Choose Language</string>
+    <string name="name">The name of your image</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    <string name="error">Please write the image name</string>
+    <string name="delete">delete</string>
+    <string name="success">The image was deleted successfully please refresh</string>
+    <string name="upload1">upload of </string>
+    <string name="upload2"> was sucessful</string>
+
+
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+
+
+</resources>
